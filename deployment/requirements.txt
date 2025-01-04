@@ -1,0 +1,5 @@
+pandas==2.2.2
+scikit.learn==1.4.2
+seaborn==0.13.2
+pickleshare
+plotly==5.22.0
